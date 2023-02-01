@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working in web devolopment
+wengdef ㄟ(≧◇≦)ㄏ
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@ I'm currently working in web devolopment
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Albretus2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Albretus2&icon=8&color=10)](https://visitcount.itsvg.in)
