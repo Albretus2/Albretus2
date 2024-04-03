@@ -1,4 +1,4 @@
-<img src="https://github.com/Albretus2/Albretus2/blob/main/ketikan.gif" width="100%"/>
+<img src="https://github.com/Albretus2/Albretus2/blob/main/ketikan.gif" width="100%" height="30px"/>
 ### Hi there 👋
 
 <!--
