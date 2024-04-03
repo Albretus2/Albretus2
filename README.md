@@ -1,4 +1,4 @@
-<img src="https://github.com/Albretus2/Albretus2/blob/main/ketikan.gif" width="100%" height="180px" style="object-fit: cover;" />
+![App Screenshot](https://github.com/Albretus2/Albretus2/blob/main/ketikan.gif)
 <h1>Hi there 👋</h1>
 
 <!--
