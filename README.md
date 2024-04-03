@@ -1,12 +1,9 @@
 ### Hello there 👋
 
-#### A Programmer ☕︎ and also a Graphic Designer ✿
+#### A Programmer 📟 and also a Graphic Designer 🌸
 
-Full-Stack Developer at [Medicare](https://medicare.pt?ref=github-caneco);<br>
-Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
+My design can be seen at [@dommy.exe](https://www.instagram.com/dommy.exe/);<br>
 
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-- 🌍 I'm mostly active within the **Laravel Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
-- 💬 `ping` me about **design**, **branding**, **laravel**, **development**, **design thinking**
+- 🕹 I use daily tech:  `.js`, `.php`, `.html`, `.css`, `tailwind`, `bootstrap`, `laravel`
+- 🛠 Tools I can use: `figma`, `.psd`
 
