@@ -1,8 +1,7 @@
 ![App Screenshot](https://github.com/Albretus2/Albretus2/blob/main/ketikan.gif)
 
 # Hi there 👋
-<h2 style="color:red;">My name is alber</h2>
-<!--
+
 **Albretus2/Albretus2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
