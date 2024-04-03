@@ -1,5 +1,3 @@
-<img src="https://github.com/Albretus2/Albretus2/blob/main/a7deaa9db1d56ada0573b50c1bd0f3d8.gif" width="100%" height="200px" object-fit="cover"/>
-
 ### Hello there 👋
 
 #### A Programmer 📟 and also a Graphic Designer 🌸
