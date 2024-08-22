@@ -1,3 +1,4 @@
+![alt text](https://i.gifer.com/XwI4.gif)
 ### Hello there 👋
 
 #### A Programmer 📟 and also a Graphic Designer 🌸
