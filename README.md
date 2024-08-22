@@ -1,4 +1,4 @@
-![alt text](https://i.gifer.com/XwI4.gif)
+![alt text](https://github.com/Albretus2/Albretus2/blob/main/XwI4.gif)
 ### Hello there 👋
 
 #### A Programmer 📟 and also a Graphic Designer 🌸
