@@ -3,5 +3,5 @@
 - 🕹 Tools I can use: `figma`, `.psd`, `git`, `vscode`
 
 
-| Attempt | #1  |
+| ![alt text](https://github.com/Albretus2/Albretus2/blob/main/XwI4.gif) | #1  |
 | ------- | --- |
